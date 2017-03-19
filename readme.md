@@ -65,7 +65,7 @@ You've all been invited to use [Slack](https://ganyceveningcourses.slack.com/mes
 ## Unit Projects
 
 | Unit Project | Description | Goal | Due |
-|:---:|:---|:---|:---:|:---: |
+|:---:|:---|:---|:---:|
 | [1](./projects/unit-projects/project-1) | Research Design Write-Up | Create a problem statement, analysis plan, and data dictionary in iPython ||
 | [2](./projects/unit-projects/project-2) | Exploratory Data Analysis | Explore data with visualizations and statistical analysis in an iPython notebook | |
 | [3](./projects/unit-projects/project-3) | Basic Modeling Assignment | Perform logistic regressions, creating dummy variables, and calculating probabilities | |
@@ -74,7 +74,7 @@ You've all been invited to use [Slack](https://ganyceveningcourses.slack.com/mes
 ## Final Project
 
 | Final Project, Part | Description | Goal | Due |
-|:---:|:---|:---|:---:|:---:|
+|:---:|:---|:---|:---:|
 | [1](./projects/final-projects/) | Lightning Presentation | Prepare a one-minute lightning talk that covers 3 potential project topics | |
 | [2](./projects/final-project/) | Experiment Write-Up | Create an outline of your research design approach, including hypothesis, assumptions, goals, and success metrics | |
 | [3](./projects/final-project/) | Exploratory Analysis | Confirm your data and create an exploratory analysis notebook with stat analysis and visualization | |
