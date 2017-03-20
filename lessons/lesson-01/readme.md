@@ -33,7 +33,7 @@ DS | Lesson 1
 <a name="opening"></a>
 ## Welcome to GA! (20 mins)
 
-Slide deck is [here] (./assets/slides/01-welcome-to-data-science (2).pdf) 
+Slide deck is [here](./assets/slides/01-welcome-to-data-science.pdf) 
 
 #### GA is a special learning environment
 
