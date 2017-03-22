@@ -28,7 +28,7 @@ DS | Lesson 2
 
 ---
 
-## Slides are [here](./assets/slides/02-experimental-design-and-pandas (2).pdf)
+## Slides are [here](./assets/slides/02-experimental-design-and-pandas.pdf)
 
 Additional resources:
 
