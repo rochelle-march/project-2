@@ -7,10 +7,10 @@ Course materials for [General Assembly's Data Science course](https://generalass
 [Fill me out at the end of each class!](https://goo.gl/forms/7AGUshKAV728UCvF3)
 
 ## Parking Lot
-[Google sheet] (https://docs.google.com/spreadsheets/d/1IO3_NR632bk_eGFieu7f6XpndKy_CYFnEnBT81JIP_0/edit#gid=0)
+[Google sheet](https://docs.google.com/spreadsheets/d/1IO3_NR632bk_eGFieu7f6XpndKy_CYFnEnBT81JIP_0/edit#gid=0)
 
 ## Homework Submission
-[Submission form] (https://docs.google.com/forms/d/1ltwJ2etdMB0_kfGUsfR2wizjXu02D2z5JnrzeEPOJtM/)
+[Submission form](https://docs.google.com/forms/d/1ltwJ2etdMB0_kfGUsfR2wizjXu02D2z5JnrzeEPOJtM/)
 
 ## Schedule
 
