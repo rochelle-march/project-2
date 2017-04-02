@@ -38,7 +38,7 @@ DS | Lesson 5
 
 
 ---
-## Slides are [here] (./assets/slides/05-intro-to-regression-analysis.pdf)
+## Slides are [here](./assets/slides/05-intro-to-regression-analysis.pdf)
 
 
 
