@@ -21,23 +21,24 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 1 | 3/20 | [What is Data Science](./lessons/lesson-01/readme.md) | |
 | 1 | 3/22 | [Research Design and _pandas_](./lessons/lesson-02/readme.md) | |
 | 2 | 3/27 | [Descriptive Statistics for Exploratory Data Analysis](./lessons/lesson-03/readme.md) |  |
-| 2 | 4/03 | [Inferential Statistics for Model Fit](./lessons/lesson-04/readme.md) |**[Unit Project 1](./projects/unit-projects/project-1) due** |
+| 2 | 3/29 | [Inferential Statistics for Model Fit](./lessons/lesson-04/readme.md) |**[Unit Project 1](./projects/unit-projects/project-1) due** |
 | | | **Unit 2 - Foundations of Data Modeling** | |
-| 3 | 4/05 | [Introduction to Regression and Model Fit](./lessons/lesson-05/readme.md) |  |
-| 3 | 4/10 | [Evaluating Model Fit](./lessons/lesson-06/readme.md) | **[Final Project 1](./projects/final-projects/01-lightning-talk) due** |
-| 4 | 4/12 | [Introduction to Classification](./lessons/lesson-07/readme.md) | |
-| 4 | 4/17 | [Introduction to Logistic Regression](./lessons/lesson-08/readme.md) | |
-| 5 | 4/19 | [Advanced Metrics and Communicating Results](./lessons/lesson-09/readme.md) |**[Unit Project 2](./projects/unit-projects/project-2) due**  |
-| 5 | 4/24 | [Decision Trees and Random Forests](./lessons/lesson-10/readme.md) |  |
-| 6 | 4/26 | [NLP and Text Classification](./lessons/lesson-11/readme.md) | |
+| 3 | 4/03 | [Introduction to Regression and Model Fit](./lessons/lesson-05/readme.md) |  |
+| 3 | 4/05 | [Evaluating Model Fit](./lessons/lesson-06/readme.md) | **[Final Project 1](./projects/final-projects/01-lightning-talk) due** |
+| 4 | 4/10 | [Introduction to Classification](./lessons/lesson-07/readme.md) | |
+| 4 | 4/12 | [Introduction to Logistic Regression](./lessons/lesson-08/readme.md) | |
+| 5 | 4/17 | [Advanced Metrics and Communicating Results](./lessons/lesson-09/readme.md) |**[Unit Project 2](./projects/unit-projects/project-2) due**  |
+| 5 | 4/19 | [Decision Trees and Random Forests](./lessons/lesson-10/readme.md) |  |
+| 6 | 4/24 | [NLP and Text Classification](./lessons/lesson-11/readme.md) | |
 | | | **Unit 3 - Data Science in the Real World** | |
-| 6 | 5/1 | [Review Session] |  |
-| 7 | 5/3 | [Unsupervised Machine Learning](./lessons/lesson-12/readme.md) |**[Final Project 2](./projects/final-projects/02-experiment-writeup) due**    |
-| 7 | 5/8 | [TBD](./lessons/lesson-13/readme.md) |**[Unit Project 3](./projects/unit-projects/project-3) due** |
-| 8 | 5/10 | [TBD](./lessons/lesson-14/readme.md) |  |
-| 8 | 5/15 | [Big Data And Recommendation Systems](./lessons/lesson-17/readme.md) |**[Final Project 3](./projects/final-projects/03-exploratory-analysis) due** |
-| 9 | 5/17 |[Databases](./lessons/lesson-15/readme.md)  |**[Unit Project 4](./projects/unit-projects/project-4/) due** |
-| 10 | 5/22 | [Flex Session | **[Final Project 4](./projects/final-projects/04-notebook-rough-draft) due** |
+| 6 | 4/26 | [Review Session] |  |
+| 7 | 5/1 | [Unsupervised Machine Learning](./lessons/lesson-12/readme.md) |**[Final Project 2](./projects/final-projects/02-experiment-writeup) due**    |
+| 7 | 5/3 | [TBD](./lessons/lesson-13/readme.md) |**[Unit Project 3](./projects/unit-projects/project-3) due** |
+| 8 | 5/8 | [TBD](./lessons/lesson-14/readme.md) |  |
+| 8 | 5/10 | [Big Data And Recommendation Systems](./lessons/lesson-17/readme.md) |**[Final Project 3](./projects/final-projects/03-exploratory-analysis) due** |
+| 9 | 5/15 |[Databases](./lessons/lesson-15/readme.md)  |**[Unit Project 4](./projects/unit-projects/project-4/) due** |
+| 10 | 5/17 | [Flex Session | **[Final Project 4](./projects/final-projects/04-notebook-rough-draft) due** |
+| 10 | 5/22 | Review and Work On Your Projects |  | |
 | 10 | 5/24 | Final Project Presentations | **[Final Project 5](./projects/final-projects/05-presentation) due** | |
 
 (Flexible class sessions will be finalized after student goals are defined)
