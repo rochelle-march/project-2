@@ -32,7 +32,7 @@ DS | Lesson 7
 
 ---
 
-Slides are [HERE] (./assets/slides/07-intro-to-classification.pdf)
+Slides are [HERE](./assets/slides/07-intro-to-classification.pdf)
 
 <a name="opening"></a>
 ## Opening (5 mins)
