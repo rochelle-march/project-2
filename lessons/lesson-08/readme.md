@@ -31,7 +31,7 @@ DS | Lesson 8
 
 <a name="opening"></a>
 
-Slides are [HERE] (./assets/slides/08-intro-to-logistic-regression.pdf)
+Slides are [HERE](./assets/slides/08-intro-to-logistic-regression.pdf)
 
 ## Opening (5 minutes)
 
