@@ -4,6 +4,34 @@ I will be predicting a continuous variable, which will be the correlation (measu
 
 I think this could have a positive impact, particularly to ICT and technology companies who are seeking contribution to the SDGs and to sustainable development priorities, and to sustainability practicioners, such as UN members, who are developing coalitions and initiatives to help countries achieve the SDGs by 2030. The analysis will add to an already roboust amount of information to help both parties prioritize which ICT initiatives to deploy on which sustainability objectives (e.g., health, education, clean water, etc.).
 
-I think the biggest impact will come from areas where ICT has already been widely used - such as in healthcare, education and industrialization. I also predict that GDP will play a large role in the correlation (weathier nations tend to be more sustainable and have more developed ICT infrastructure), but will not be the most impactful. If I can, I'd like to control for GDP in order to explore this more. 
+I think the biggest impact will come from areas where ICT has already been widely used - such as in healthcare, education and industrialization. I also predict that GDP will play a large role in the correlation (wealthier nations tend to be more sustainable and have more developed ICT infrastructure), but will not be the most impactful. If I can, I'd like to control for GDP in order to explore this more. 
 
-2. 
+2. My data set contains 64 variables including country name, region, GDP per capita, ITU ICT Development Index Score (measure of ICT development), and several variables measuring sustainable development (at least one variable for each of the 17 Sustainable Development Goals). See Final-Project-Data.csv for Data Dictionary. I have some questions on this data set, including how to best organize it and if I need to normalize certain variables. 
+
+3. I have a lot of experience in this area because I work in sustainability and am very familiar with the Sustainable Development Goals (SDGs) and with ICT because I work with several clients in that field. I have also completed a similar analysis with just 6 SDGs (25 variables in total, including country name) in the past. In this analysis I found SDG 9 (Industrialization), 3 (Health) and 4 (Education) to be most correlated with ICT. I believe I can use this a type of informal benchmark. This past work will also help inform the project because I will be able to interpret certain variables well because of my familiarity with them. Several research efforts currently exist, including the one where I obtained the dataset for sustaianble development indicators. In this research effort, they ranked the sustainability performance of each country based on how they scored for each indicator and established thresholds that described how well a country was performing on a particular SDG. They did not attempt to build a model to predict performance in the future. 
+
+4. I have questions about the data set-up: do I need to normalize certain variables? I also need help cleaning up the database: should I take an average of data points if there is a missing variable? If I am grabbing data from different datasets, how can I best put it together using Python or Excel?
+
+The assumptions/caveats to the problem are that the variables chosen accurately depict sustainable development, which is debatable. Some are very clear in their relationship to sustainable development (e.g., people living in poverty) while others not so much (number of ATMS - some developed countries, like Sweden, are more of a cashless society and thus number of ATMs is not an accurate depicter of how well this country is doing on sustainable development). Another assumption is that the variables to measure ICT, in this case just the ITU ICT Development Index score, accurately depict the amount of ICT development. The index includes variables such as number of mobile phone subscriptions and number of people with access to the Internet, but there could be additional data (such as breaking it down by gender) that would depict a more accurate portrayal of ICT development. Additionally, correlations between ICT and sustainable development may be due to other factors outside of these indicators, such as GDP per capita, historical policies and/or geographic restrictions. 
+
+I do not have access to certain data that may more accurately depict a picture of sustainable development and ICT development. For example, instead of just average years of schooling, it would be interesting to see the percentage of the population that supplements or gets their education from mobile or online materials. Also, the observations in my dataset are limited to the most recent year, so it may not be illustrative of the overall or pace of sustainability or ICT development in a country, which would be useful information. 
+
+The observations in my dataset are taken from sets where there is enough available data across 175 countries, thus it is may not be representative of all countries. 
+
+The risks to the project include 1.) time spent on setting up the dataset may be too much; 2.) results may be difficult to interpret; 3.) there may not be enough datapoints to properly train and test a model; and 4.) chosen variables may be collinear. 
+
+The cost of my model being wrong would be embarrassment and a bummer, but there would likely not be any major cost as this is an exploratory venture. The benefit would be it could support my work in sustainability and potentially support the research efforts underway to accelerate and prioritize initiatives related to the SDGs. 
+
+I am taking my data from reputable data sources (Sustainble Development Solutions Network, World Bank and ITU), but there is always the risk that they may have recorded an incorrect data point. 
+
+5. I expect the output to be a clear number of variables, and thus SDGs, that have a high correlation with ICT and could thus be prioritized for ICT applications. I'd also like to see an output of variables that intuitively may have strong ICT applications (e.g., Climate Action), but have low correlation, and thus point to areas of future development and overlap. 
+
+My target audience likely expects the output to align with current initiatives that already fuse ICT and sustainable development, such as mobile banking and precision agriculture. 
+
+My most important feature is likely the one measuring ICT performance, or ITU ICT Development Index score, and I expect it to illustrate which countries are utilizing ICT in the most holistic way (measured by the number of other sustainability variables that are highly correlated). 
+
+My model does not have to be very complicated, right now it is essentially a linear regression, although I'd like to explore clustering and perhaps KNN (using the regional data variable) to unpack other predictive possibilities. 
+
+Success will be measured in the ability of the data to differentiate different countries in a meaningful way according to their ICT and sustainable development performance, and for that to be easily interpretable to a lay-person. 
+
+If this project is a bust, I will use it as a learning experience and re-do or adjust the project so it isn't a bust. 
